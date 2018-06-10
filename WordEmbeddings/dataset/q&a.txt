@@ -1,0 +1,4 @@
+DATA
+
+test_set: does the list of tokens should be ordered a-b-c or sentence-order?   sentence
+can we use collections.counter for vocab? he says set
